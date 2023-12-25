@@ -1,0 +1,3 @@
+/Users/fan/Library/Mobile Documents/com~apple~CloudDocs/Baruch/Semester 1/Software Engineering/tradingsystem/cmake-build-debug/CMakeFiles/tradingsystem.dir
+/Users/fan/Library/Mobile Documents/com~apple~CloudDocs/Baruch/Semester 1/Software Engineering/tradingsystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fan/Library/Mobile Documents/com~apple~CloudDocs/Baruch/Semester 1/Software Engineering/tradingsystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
